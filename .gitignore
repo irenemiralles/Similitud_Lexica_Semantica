@@ -1,0 +1,20 @@
+# Directoris de dades i models
+models/
+data/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entorns virtuals
+venv/
+env/
+.env
+
+# MacOS
+.DS_Store
